@@ -424,7 +424,7 @@ transform: translateY(100%);
 	transform: translateY(0%);
 } */
 
-.list_prtfolio:hover .fly-txt, .list_prtfolio:focus .fly-txt {
+.fly-txt:hover,  .fly-txt:focus {
 
 	transform: translateY(0%);
 }
