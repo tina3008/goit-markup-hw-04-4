@@ -424,7 +424,7 @@ transform: translateY(100%);
 	transform: translateY(0%);
 } */
 
-.fly-txt:hover,  .fly-txt:focus {
+.img-shadow:hover .fly-txt, .img-shadow:focus .fly-txt {
 
 	transform: translateY(0%);
 }
